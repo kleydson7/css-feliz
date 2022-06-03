@@ -1,0 +1,57 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000;
+    border: 1px solid #62C370;
+    border-bottom: 2px solid #62C370;
+    padding: 10px 20px;
+
+    
+}
+nav{
+    background-color: #000;
+    text-align: right;
+}
+a{
+    text-align: right;
+    color: #4CECE2;
+    font-size: 20px;
+    font-family: "fira code";
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 10px;
+}
+span{
+    display: inline-block;
+    background-color: #4E328A;
+    padding: 5px 5px;
+    margin-right: 5px;
+    
+}
+p{
+    text-align: ju;
+}
+
+#button{
+    
+    display: inline-block;
+    background-color: #4E328A;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-width: 1px;
+    border-style: solid; 
+    border-color: #62C370 ;
+}
+#button:hover{
+    color: #000000;
+    background-color: #4CECE2;
+    transform: scale(1.1);
+    
+}
+img{
+    border-width: 1px;
+    border-style: solid; 
+    border-color: #62C370 ;
+}
